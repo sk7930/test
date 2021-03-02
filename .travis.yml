@@ -1,6 +1,3 @@
---- 
-compiler: 
-  - clang
-  - gcc
 language: c
+script: make
 
